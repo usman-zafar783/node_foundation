@@ -40,3 +40,22 @@ router.delete('/:id', deleteGoal)
 
     then use this in server.js 
     app.use('/api/goals', require('./routes/goalsRoute'))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **   Frontend Command **
+ npx create-react-app frontend --template redux
