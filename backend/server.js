@@ -8,6 +8,7 @@ const app = express();
 app.use('/api/goals', require('./routes/goalsRoute'))
 
 
+
 app.listen(port, ()=> console.log(`server started at ${port}`));
 
 
